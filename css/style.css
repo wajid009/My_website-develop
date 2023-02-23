@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster', cursive;
+}
+.navbar-brand{
+    color: white;
+      font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster', cursive;
+}
+.home{
+    height: 355px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: linear-gradient(rgba(105,58,186,0.8),rgba(33,150,245,0.5)),url(../images/lycs-architecture-kUdbEEMcRwE-unsplash.jpg);
+}
+.servise-section{
+    background-color: black;
+   color: black;
+}
